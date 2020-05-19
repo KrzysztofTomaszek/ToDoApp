@@ -1,4 +1,4 @@
-# Krzysztof Toamszek ToDo Mobile App
+# Krzysztof Tomaszek ToDo Mobile App
 
 ## **Folders Structure**
 
